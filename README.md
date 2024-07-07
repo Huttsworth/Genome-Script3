@@ -1,17 +1,21 @@
 # Genome-Script3
 A Private A.I. computer language
 
-# Genome-Script3
+# Genome Script3
 
-Genome Script is a concise, efficient, and symbolic scripting language designed for creating AI bots and blockchain systems as part of Project Green Thumb.
-
-## Goals
-- Interoperability with major blockchain languages
-- Fast, durable, and self-healing code
-- Modular design for future expansion
-- AI integration for autonomous trading bots
+## Overview
+Genome Script3 is an AI-based scripting language designed to integrate AI components seamlessly and optimize for AI workloads. It features specialized syntax and constructs for AI operations, making it easier to write and understand AI-related code.
 
 ## Features
-- Unique syntax with heavy abbreviations and symbols
-- Standard library for blockchain interactions and AI functionalities
-- Diagnostic and self-healing mechanisms
+- **AI Integration**: Built-in support for popular AI frameworks like TensorFlow, PyTorch, and Keras.
+- **Optimized Performance**: Enhanced for parallel processing and efficient memory management.
+- **Comprehensive Libraries**: Includes robust libraries for data manipulation, machine learning, neural networks, NLP, and computer vision.
+- **IDE Support**: Features code completion, debugging tools specific to AI, and data visualization tools.
+
+## Installation
+Follow these steps to install Genome Script3:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Huttsworth/Genome-Script3
+
